@@ -1,0 +1,3 @@
+#install php rrd driver on Centos
+
+yum install php-pecl-rrd
